@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+## 愉悦的作业指南
 
-You can use the [editor on GitHub](https://github.com/doll-houhuayuan/sop_editor/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+少年，你的圣痕正在隐隐作痛吗？你也想要愉悦吗？
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+新世界的大门已经打开，我会一步步带领你走向愉悦的终点。
 
-### Markdown
+###  愉悦的条件
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+一个人愉悦不如一群人愉悦，麻婆豆腐自然是和别人分享比较美味。我来告诉你让全世界人都愉悦的两大法典。
 
-```markdown
-Syntax highlighted code block
+1. 我们都喜欢美的东西，因此如果一篇无法让你感受到愉悦的文章是没有必要在上面花费时间的。
+2. 当你发现可以让你愉悦的文章时，如果可以用更美观整齐的方式展现给别人，那是通往愉悦的开始。
 
-# Header 1
-## Header 2
-### Header 3
+### 愉悦的步骤
 
-- Bulleted
-- List
+1. 登陆愉悦的后台。
+2. 前往左侧导航的 **文章** 板块，找到 **待审** 标签。
+3. 从里面找到令人愉悦的文章。
+4. 把文章的格式改的更让人愉悦。
+	1. 每篇文章的第一行需要有 **站点名 - 文章标题** 这一段落，如，**蔷薇后花园 - 娃娃制造所**，正文另起一段落。
+	2. 如果文章按章节区分，每个章节的标题需要调整为 **二级标题**，标题名需要遵守 **第x章 章节名** 的格式，如无章节名可以只处理 **第x章**；如果文章很长且没有章节，需要手动划分章节，可以不用补充章节名；如果文章不长，可以不按章节划分。
+	3. 所有的段落的开始没有空格；所有人物的对话需要根据对话划分段落，如，
+	> <p>男子自己搬过一张凳子，将两张照片远远的递给了女子，其实男子本可以选择离女子更近的位置就座，但女子斩钉截铁的语气和高冷的气质竟让他有一丝畏惧和臣服的感觉。</p>
+	> <p>“我叫夏翼，照片上的两个女子一个叫云沁心，一个叫顾丽。怎么说呢，她们是我的两个追求者。”</p>
+	> <p>“追求者？”女子打量了夏翼一番，“嗬，你长得还行，确实能吸引几个女孩的追求，毕竟人类还是爱美的。”</p>
+	> <p>人类，哼，说的你不是人类一样，我看你只不过是个异装癖罢了，夏翼心中暗暗嘲笑这个叫戴琦丝的女子。</p>
+	4. 如果段落超过10行，需要根据段落内容划分为2个段落。
+	5. 如果有正文以外的作者的自言自语，需要单独把自言自语放到文章末尾并转换为 **引语**。
+5. 正文的编辑器的右侧，找到 **文档** 标签栏，滚动至 **标签** 标签栏。向内添加适合的标签，常用标签可以在主站左侧边栏的 **题材** 上找到。添加方式为：输入标签，回车；标签只能一个个添加。
+6. 所有步骤完成后，点击右上角 **提交复审**，站长确认后会进行发布。
 
-1. Numbered
-2. List
+### 让你感受到愉悦的法器
 
-**Bold** and _Italic_ and `Code` text
+整理格式时，需要将换行处理成段落，可以简单的理解为，**2个段落之间需要存在2个换行**，以下是段落和换行的区别，：
 
-[Link](url) and ![Image](src)
-```
+##### √ 2个段落
+“就算是这样，也无法说明这个召唤阵是错误的！”
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+“欣欣，你听我说，我了解你对召唤兽的渴望，但是这个召唤阵多方面是有问题的，就算能成功启动，也不知道会连到哪个次元”
+##### X 1个段落，但使用了换行
+“就算是这样，也无法说明这个召唤阵是错误的！”<br>
+“欣欣，你听我说，我了解你对召唤兽的渴望，但是这个召唤阵多方面是有问题的，就算能成功启动，也不知道会连到哪个次元”
 
-### Jekyll Themes
+1. [换行替换法器](https://www.gillmeister-software.com/online-tools/text/remove-line-breaks.aspx)，使用换行替换法器可以把文章内的换行替换为任意字符。
+2. [分段工具](https://textmechanic.com/text-tools/basic-text-tools/addremove-line-breaks/)，使用该法器可以将在上一个步骤内，被替换的字符的前或后面，插入换行，重复2次操作就可以把所有未分段的内容分段。
+3. 最后是 **记事本** 或任何文本处理工具，把替换的字符替换为空白就可以了。还可能碰到从后台的编辑器内复制出带代码的内容，同样替换为空白就可以。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/doll-houhuayuan/sop_editor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 最后：写给有志于寻找愉悦的少年
 
-### Support or Contact
+单靠审核是无法获得完整的愉悦的，想要获得愉悦当然要靠自己，作为身上出现圣痕的被选中的人，为什么不去转载一些文章呢？
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### 特别提醒
+
+转载文章需要在后台正文编辑器的右侧 **文档** 标签栏下滑至 **原作者**，注明原作者的 id；在 **文类目录** 下在 **转载** 前打勾，取消 **原创** 的勾。
